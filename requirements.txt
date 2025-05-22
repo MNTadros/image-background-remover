@@ -1,5 +1,3 @@
 flask
-rembg
-pillow
 opencv-python
 numpy

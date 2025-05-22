@@ -1,7 +1,0 @@
-﻿@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-#dropZone {
-    transition: all 0.2s ease;
-}
